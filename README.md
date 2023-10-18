@@ -5,3 +5,6 @@ Algunas misiones interesantes dentro de esta línea de tareas fueron:
 - Creación de clases de objetos con movimiento.
 - Uso de matrices para que el movimiento fuera aplicado por medio de funciones de transición que respondieran al input del usuario (Movimiento del cursor del mouse y presionar las teclas WASD).
 - Importe y rendering de modelos 3D
+
+
+NOTA: Estas tareas no siguen las mejores metodologías de diseño, pues fueron realizadas previo a tomar el curso "Metodologías de Diseño y Programación".
